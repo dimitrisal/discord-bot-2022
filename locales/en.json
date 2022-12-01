@@ -58,7 +58,7 @@
     "missingPermissionSpeak": "I cannot speak in this voice channel, make sure I have the proper permissions!",
     "queueAdded": "✅ **{title}** has been added to the queue by <@{author}>",
     "cantJoinChannel": "Could not join the channel: {error}",
-    "queueEnded": "❌ Music queue ended.",
+    "queueEnded": "❌ Πάω για δίαβασμα.",
     "queueError": "Error: {error}",
     "startedPlaying": "🎶 Started playing: **{title}** {url}",
     "skipSong": "<@{author}> ⏩ skipped the song",
