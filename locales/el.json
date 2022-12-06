@@ -70,7 +70,7 @@
     "increasedVolume": "<@{author}> 🔊 αύξησε την ένταση, η ένταση τώρα είναι  {volume}%",
     "loopSong": "<@{author}> Ο βρόγχος τώρα είναι {loop}",
     "stopSong": "<@{author}> ⏹ σταμάτησε την αναπαραγωγή!",
-    "leaveChannel": "Έξοδος από το κανάλι ομιλίας...",
+    "leaveChannel": "Πάω για διάβασμα",
     "songNotFound": "Δε βρέθηκε ήχος",
     "songAccessErr": "Video is age restricted, private or unavailable"
   },
